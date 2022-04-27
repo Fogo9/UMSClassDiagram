@@ -1,8 +1,8 @@
-![University Management System](https://user-images.githubusercontent.com/98576037/165508889-1f9d00e9-e713-4685-b8bd-8fa5acd37222.png)
+# UNIVERSITY MANAGEMENT SYSTEM CLASS DİAGRAM
 
 <br />
 
-# UNIVERSITY MANAGEMENT SYSTEM CLASS DİAGRAM
+![University Management System](https://user-images.githubusercontent.com/98576037/165508889-1f9d00e9-e713-4685-b8bd-8fa5acd37222.png)
 
 <br />
 
