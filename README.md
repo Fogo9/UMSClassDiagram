@@ -2,7 +2,7 @@
 
 <br />
 
-# **UMSClassDiagram**
+# UNIVERSITY MANAGEMENT SYSTEM CLASS DİAGRAM
 
 # LICENSE
 
