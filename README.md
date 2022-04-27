@@ -4,6 +4,8 @@
 
 # UNIVERSITY MANAGEMENT SYSTEM CLASS DİAGRAM
 
+<br />
+
 # LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
